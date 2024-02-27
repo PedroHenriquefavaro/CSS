@@ -1,0 +1,116 @@
+/* Estilos para o cabeçalho */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para links */
+a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Estilos para os parágrafos */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Estilos para as seções */
+.section {
+    margin-bottom: 40px;
+}
+
+/* Estilos para as listas */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Estilos para os itens de lista */
+li {
+    margin-bottom: 10px;
+}
+
+/* Estilos para as imagens */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para as bordas arredondadas */
+.rounded-border {
+    border-radius: 10px;
+}
+
+/* Estilos para os botões */
+.button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para a barra de navegação */
+.navbar {
+    background-color: #333;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Estilos para o logotipo da marca */
+.logo {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Estilos para o menu de navegação */
+.nav-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+/* Estilos para os itens do menu de navegação */
+.nav-item {
+    margin-right: 20px;
+}
+
+/* Estilos para o rodapé */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+/* Estilos para o rodapé */
+.footer a {
+    color: #fff;
+}
